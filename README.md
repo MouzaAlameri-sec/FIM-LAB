@@ -16,8 +16,11 @@ NOTE. Screenshots would include name and date to ensure integrity of work. (This
 
 
 <h2>Environments Used </h2>
-Windows Server 2022 - Domain Controller
-Windows 11 PRO - Domain Member Workstation
+
+Windows Server 2022 - Domain Controller </b>
+
+Windows 11 PRO - Domain Member Workstation </b>
+
 Alma Linux 9.1 - Stand-alone Linux Server
 
  <b>    </b> 
@@ -38,6 +41,10 @@ start and check again: <br/>
 <br />
 <br />
 enter ip of linux in firefox and log in and wait for checks :  <br/>
+<img src="https://i.imgur.com/ZUxH36V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+meow <br/>
 <img src="https://i.imgur.com/ZUxH36V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
