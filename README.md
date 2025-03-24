@@ -9,8 +9,8 @@ For this project, we’ll be using Wazuh, an open-source SIEM platform that prov
 
 NOTE. Screenshots would include name and date to ensure integrity of work. (This lab is Via in ACI Learning environment) To test this lab on your actual PC you would need to set up the envrionmenets used in vmware / virtual mechine. 
  
-WORK IN PROGRESS... 
--
+**WORK IN PROGRESS...**
+
 <br />
 
 
