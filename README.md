@@ -20,7 +20,7 @@ Windows Server 2022 - Domain Controller
 Windows 11 PRO - Domain Member Workstation
 Alma Linux 9.1 - Stand-alone Linux Server
 
-- <b>    </b> 
+ <b>    </b> 
 
 <h2>Program walk-through:</h2>
 
