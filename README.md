@@ -7,7 +7,7 @@ This lab project is part of my preparation for the CompTIA Security+ certificati
 
 For this project, we’ll be using Wazuh, an open-source SIEM platform that provides real-time threat detection, log analysis, and security monitoring.
 
-NOTE. Screenshots would include name and date to ensure integrity of work. (This lab is done in ACI Learning environment) To test this lab realistically you would need to set up the envrionmenets used in vmware / virtual mechine. 
+NOTE. Screenshots would include name and date to ensure integrity of work. (This lab is Via in ACI Learning environment) To test this lab on your actual PC you would need to set up the envrionmenets used in vmware / virtual mechine. 
  
 WORK IN PROGRESS... 
 -
