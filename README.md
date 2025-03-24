@@ -8,58 +8,40 @@ This lab project is part of my preparation for the CompTIA Security+ certificati
 For this project, we’ll be using Wazuh, an open-source SIEM platform that provides real-time threat detection, log analysis, and security monitoring.
 
 NOTE. Screenshots would include name and date to ensure integrity of work. (This lab is done in ACI Learning environment) To test this lab realistically you would need to set up the envrionmenets used in vmware / virtual mechine. 
+- 
+as of now this is a work in progress ... its not completed 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 Windows Server 2022 - Domain Controller
 Windows 11 PRO - Domain Member Workstation
 Alma Linux 9.1 - Stand-alone Linux Server
 
-- <b>    </b> (21H2)
+- <b>    </b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 : <br/>
-<img src="Screenshot 2025-03-24 200305.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gdWWtaa.png" height="80%" width="80%" alt="check status of wazuh in linux / NOTE. wazuh manger is in linux it checks if its active there the light weight wazuh is distrubuted in the other devices"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+check status of wazuh in linux / NOTE. wazuh manger is in linux it checks if its active there the light weight wazuh is distrubuted in the other devices:  <br/>
+<img src="https://i.imgur.com/dzUwN12.png" height="80%" width="80%" alt="start and check again"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+start and check again: <br/>
+<img src="https://i.imgur.com/qaubXpc.png" height="80%" width="80%" alt="entre ip of linux in firefox "/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+enter ip of linux in firefox and log in and wait for checks :  <br/>
+<img src="https://i.imgur.com/ZUxH36V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add new agent in wazuh, and fill in select groups defualt and connect it to the cost environment [domain member]:  <br/>
+<img src="https://i.imgur.com/4paOipP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+This command connects linux and window member.  :  <br/>
