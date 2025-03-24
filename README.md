@@ -9,7 +9,6 @@ For this project, we’ll be using Wazuh, an open-source SIEM platform that prov
 
 NOTE. Screenshots would include name and date to ensure integrity of work. (This lab is Via in ACI Learning environment) To test this lab on your actual PC you would need to set up the environments used in vmware / virtual mechine. 
  
-**WORK IN PROGRESS...**
 
 <br />
 
@@ -53,3 +52,26 @@ Add new agent in wazuh, and fill in select groups defualt and connect it to the 
 <br />
 <br />
 This command connects linux and window member.  :  <br/>
+<img src="https://i.imgur.com/9fcdgjJ.png" alt="Wazuh Agent Setup" width="80%" height="80%">
+ <br /><br />
+<img src="https://i.imgur.com/CtDJjq0.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/mNIK3HZ.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/oD0OJcQ.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/A7b6wSP.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/CRgE96Q.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/fXnnePA.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+<img src="https://i.imgur.com/pp0fDNg.png" alt="Image" width="80%" height="80%" />
+<br /><br />
+ 
+<h2>Final Reflections </h2>
+This project required a deep understanding of File Integrity Monitoring (FIM) and also helped me connect various security concepts. For example, the same key Windows registry entries used in reverse engineering are also relevant here, being accessed or modified by the same file.
+
+
+
+
